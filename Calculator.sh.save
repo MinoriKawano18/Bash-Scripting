@@ -1,0 +1,8 @@
+# Assignment for creating basic calculator in Bash. 
+#We need to create a calculator that can perform additiong, subtraction, multiplication, and division. 
+#The script will prompt the user to use two integers and choose an operation 
+#
+
+
+#!/bin/bash
+
